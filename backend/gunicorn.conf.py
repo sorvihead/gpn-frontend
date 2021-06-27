@@ -1,6 +1,6 @@
 import os
 
-bind = "0.0.0.0:8080"
+bind = "0.0.0.0:10500"
 reload = False
 preload_app = False
 workers = os.cpu_count() * 2 + 1

@@ -12,10 +12,7 @@ module.exports = {
   resolve: {
     extensions: ['.tsx', '.ts', '.js'],
     alias: {
-      helpers: path.resolve(__dirname, '../src/helpers/'),
-      common: path.resolve(__dirname, '../src/common/'),
       context: path.resolve(__dirname, '../src/context/'),
-      utils: path.resolve(__dirname, '../src/utils/'),
     },
   },
   module: {
