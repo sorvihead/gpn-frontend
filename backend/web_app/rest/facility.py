@@ -4,7 +4,7 @@ import requests
 from flask import Response, jsonify, request
 from flask.views import MethodView
 
-from backend.domain.well import FacilityState, Well
+from backend.domain.well import Well
 from backend.web_app.rest.presentation.well import FacilityPresentationSchema
 from backend.web_app.services.facility import FacilityService
 
@@ -16,8 +16,7 @@ class FacilityResource(MethodView):
         self._service = service
 
     def get(self):
-        statuses = [FacilityState(status) for status in request.args.get("statuses").split(",")]
-        return jsonify({"facilities": self.schema.dump(self._service.get_facilities_by_status(statuses), many=True)})
+        return jsonify({"facilities": self.schema.dump(self._service.get_all_facilities(), many=True)})
 
     def post(self):
         facility = request.json

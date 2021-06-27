@@ -1,6 +1,8 @@
 import React from 'react';
-import { Table } from 'antd';
+import { Table, Button } from 'antd';
 import './Instruments.scss';
+import { PrinterOutlined } from '@ant-design/icons';
+
 
 const { Column } = Table;
 
@@ -24,6 +26,13 @@ const AdditionalInstrumentInfo = ({ instrument }) => (
                         title="Дата"
                         dataIndex="date"
                         key="date"
+                    />
+                    <Column
+                        title="Печать"
+                        key="print"
+                        render = {() => (
+                            <Button type="primary" icon={<PrinterOutlined />} />
+                        )}
                     />
                 </Table>
             )}

@@ -7,10 +7,10 @@ const { TabPane } = Tabs;
 
 const TableTabs = () => {
     return (<Tabs size="large" style={{ width: '100%' }} tabBarStyle={{ margin: 0 }}>
-        <TabPane tab="Месторождения" key="1">
+        <TabPane tab="Скважины" key="1">
             <ListOfWells />
         </TabPane>
-        <TabPane tab="Резерв/склад" key="2">
+        <TabPane tab="Установки" key="2">
             <ListOfInstruments />
         </TabPane>
     </Tabs>)

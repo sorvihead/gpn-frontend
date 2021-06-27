@@ -9,7 +9,7 @@ const MainPage = () => {
     const [fetchedWells, setWells] = useState();
     const [fetchedFacilities, setFacilities] = useState();
     useEffect(() => {
-        const facilitiesUrl = '/api/facilities?statuses=Выпущено,Доставка на базу,Необходимо подготовить,Ремонт/списание,Демонтаж';
+        const facilitiesUrl = '/api/facilities';
         axios.get(facilitiesUrl).then((resp) => {
             const facilities = resp.data.facilities;
             setFacilities(facilities);

@@ -1,8 +1,9 @@
 import React, {useState} from 'react';
 
-import { Layout, Table, Collapse, Descriptions } from 'antd';
+import { Button, Layout, Table, Collapse, Descriptions } from 'antd';
 import AdditionalInstrumentInfo from '../Instruments/AdditionalInstrumentInfo';
 import EditableValue from '../../../EditableValue';
+import axios from 'axios';
 
 
 import './Wells.scss';
@@ -20,7 +21,39 @@ const AdditionalWellInfo = ({ instrument, isLoaded }) => {
                         "Демонтаж",
                         "Ремонт/списание"],
   });
+  const onDownload = (facility) => {
+    console.log(facility);
+    const getExcelTable = (params) => {
+        axios.post('api/document/download', params, {
+          responseType: 'blob',
+        })
+        .then((response) => {
+          const url = window.URL.createObjectURL(
+            new Blob([response.data], {
+              type:
+                'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+            })
+          );
+      const link = document.createElement('a');
+      link.href = url;
+      link.setAttribute(
+        'download',
+        response.headers['content-disposition'].split('filename=')[1]
+      );
+      document.body.appendChild(link);
+      link.click();
+    });
+    };
+    getExcelTable(facility);
+  }
     const columns = [
+        {
+            title: 'Действия',
+            key: 'action',
+            render: (record) => (
+                <Button type='primary' onClick={() => onDownload(record)}>Скачать акт</Button>
+            )
+        },
         {
             title: '№ сборки оборудования',
             dataIndex: 'id',

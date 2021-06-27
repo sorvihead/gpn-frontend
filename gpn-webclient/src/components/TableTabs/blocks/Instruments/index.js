@@ -58,11 +58,28 @@ const ListOfInstruments = () => {
             title: '№ сборки оборудования',
             dataIndex: 'id',
             key: 'id',
+            filters: Array.from({length: 100}, (v, k) => k+1).map((val) => ({text: val.toString(), value: val.toString()})),
+            onFilter: (value, record) => record.id === value
         },
         {
             title: 'Тип владения оборудованием',
             dataIndex: 'typeOfOwnership',
-            key: 'typeOwnership',
+            key: 'typeOfOwnership',
+            filters: [
+                {
+                    text: "Аренда",
+                    value: "Аренда"
+                },
+                {
+                    text: "Сервис",
+                    value: "Сервис"
+                },
+                {
+                    text: "Не указано",
+                    value: "Не указано"
+                }
+            ],
+            onFilter: (value, record) => record.typeOfOwnership === value
         },
         {
             title: 'Глубина спуска',
@@ -78,6 +95,8 @@ const ListOfInstruments = () => {
             title: 'Предыдущее состояние',
             dataIndex: 'prevStatus',
             key: 'prevStatus',
+            filters: validOptions.currentStatus.map((elem) => ({text: elem, value: elem})),
+            onFilter: (value, record) => record.prevStatus === value
         },
         {
             title: 'Текущее состояние',
@@ -90,7 +109,9 @@ const ListOfInstruments = () => {
                     value={currentStatus}
                     validValues={validOptions["currentStatus"]}
                 />
-            )
+            ),
+            filters: validOptions.currentStatus.map((elem) => ({text: elem, value: elem})),
+            onFilter: (value, record) => record.currentStatus === value
         },
     ];
     return (
