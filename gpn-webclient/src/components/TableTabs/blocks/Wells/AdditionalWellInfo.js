@@ -7,6 +7,7 @@ import EditableValue from '../../../EditableValue';
 
 import './Wells.scss';
 
+const { Content } = Layout;
 
 const AdditionalWellInfo = ({ instrument, isLoaded }) => {
     const [validOptions, setValidOptions] = useState({
