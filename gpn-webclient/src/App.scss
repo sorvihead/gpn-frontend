@@ -1,0 +1,23 @@
+.modal {
+    &__title {
+      margin: 0 0 20px 0;
+      font-size: 20px;
+    }
+  
+    &__subtitle {
+      margin: 0;
+      font-size: 16px;
+    }
+  
+    &__text {
+      margin: 0;
+      font-size: 14px;
+      font-style: italic;
+    }
+  
+    &__error {
+      margin: 0;
+      font-size: 18px;
+      color: #eb4a4a;
+    }
+  }

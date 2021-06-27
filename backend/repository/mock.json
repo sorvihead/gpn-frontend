@@ -1,0 +1,5875 @@
+[
+  {
+    "id": "1",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 12,
+    "facility": {
+      "id": "1",
+      "descent_depth": 2523,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "81002",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "179562",
+          "state": "Новый",
+          "length": 889.6772112004381,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": 25.427743930962013,
+          "power": 97.0975804693245,
+          "voltage": 2432,
+          "amperage": 56,
+          "no_load_amperage": 5,
+          "number_of_steps": 65,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 8,
+    "facility": {
+      "id": "2",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "114055",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": null,
+          "type_size": "134142",
+          "state": "Ремонтный",
+          "length": 49.431530770504146,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": 55,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 354
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "3",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "34415",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "159618",
+          "state": "Новый",
+          "length": 326.63420942664953,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 67.49188898555988,
+          "voltage": 2579,
+          "amperage": 55,
+          "no_load_amperage": 3,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 6,
+    "facility": {
+      "id": "4",
+      "descent_depth": 2483,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "116527",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": null,
+          "type_size": "162218",
+          "state": "Новый",
+          "length": 678.0577264801902,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 1",
+          "section": null,
+          "power": 165.98190246966482,
+          "voltage": 2586,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 25,
+          "pressure": 636
+        }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "5",
+      "descent_depth": 2949,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "104929",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 0,
+          "type_size": "2544",
+          "state": "Ремонтный",
+          "length": 1876.8136615922456,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": 46.710565632911226,
+          "power": null,
+          "voltage": null,
+          "amperage": 43,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 8,
+    "facility": {
+      "id": "6",
+      "descent_depth": 1048,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "170855",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 0,
+          "type_size": "85360",
+          "state": "Новый",
+          "length": 549.2160146126508,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 42.99228962947744,
+          "power": null,
+          "voltage": 2701,
+          "amperage": 57,
+          "no_load_amperage": null,
+          "number_of_steps": 111,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "7",
+      "descent_depth": 1606,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "117275",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "93397",
+          "state": "Новый",
+          "length": 1070.2344819337695,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 6",
+          "section": null,
+          "power": 61.70850648344955,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "8",
+      "descent_depth": 2743,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "163119",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "82500",
+          "state": "Новый",
+          "length": 1357.2536795999615,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 24.6944745779023,
+          "power": 88.00818937602274,
+          "voltage": 2084,
+          "amperage": 35,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 826
+        }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "9",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "65579",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 0,
+          "type_size": "94707",
+          "state": "Ремонтный",
+          "length": 779.3928844532309,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 218.7826986531974,
+          "voltage": null,
+          "amperage": 52,
+          "no_load_amperage": 3,
+          "number_of_steps": 177,
+          "pressure": 97
+        }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "10",
+      "descent_depth": 2879,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "34358",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": 1,
+          "type_size": "65516",
+          "state": "Новый",
+          "length": 615.9813628740176,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 40.49131446176275,
+          "power": null,
+          "voltage": null,
+          "amperage": 55,
+          "no_load_amperage": 5,
+          "number_of_steps": 134,
+          "pressure": 535
+        }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "11",
+      "descent_depth": 1141,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "127395",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": null,
+          "type_size": "15175",
+          "state": "Ремонтный",
+          "length": 1688.9889166528667,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 1653,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": 126,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 13,
+    "facility": {
+      "id": "12",
+      "descent_depth": 1833,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "137356",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "162451",
+          "state": "Новый",
+          "length": 902.6787896944834,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 38.43883521852438,
+          "power": null,
+          "voltage": null,
+          "amperage": 63,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "13",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "19991",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "95474",
+          "state": "Новый",
+          "length": 803.5016307465244,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 108.41840920614723,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 3,
+          "number_of_steps": 170,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "14",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "192475",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 2,
+          "type_size": "202898",
+          "state": "Новый",
+          "length": 1501.332864436263,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 33.30577112247951,
+          "power": 58.768423047769836,
+          "voltage": 1945,
+          "amperage": 30,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "15",
+      "descent_depth": 2166,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "4765",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": null,
+          "type_size": "141706",
+          "state": "Ремонтный",
+          "length": 1351.1778434970847,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 9",
+          "section": 35.93882882534088,
+          "power": null,
+          "voltage": 2293,
+          "amperage": 59,
+          "no_load_amperage": null,
+          "number_of_steps": 186,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "16",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "68270",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 0,
+          "type_size": "53969",
+          "state": "Ремонтный",
+          "length": 1892.4509089119067,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 1665,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 159
+        }
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "17",
+      "descent_depth": 2813,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "71064",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 0,
+          "type_size": "6728",
+          "state": "Ремонтный",
+          "length": 1642.0747384592703,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 2",
+          "section": 42.75030887209583,
+          "power": null,
+          "voltage": 2820,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "18",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "182752",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": null,
+          "type_size": "14237",
+          "state": "Новый",
+          "length": 157.39485247905668,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 21.082048003898958,
+          "power": null,
+          "voltage": 2089,
+          "amperage": 65,
+          "no_load_amperage": null,
+          "number_of_steps": 11,
+          "pressure": 201
+        }
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "19",
+      "descent_depth": 2251,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "171130",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": 0,
+          "type_size": "177858",
+          "state": "Новый",
+          "length": 32.66994713852373,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": 20.99229013032507,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 163,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 3,
+    "facility": {
+      "id": "20",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "128989",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": null,
+          "type_size": "81673",
+          "state": "Новый",
+          "length": 846.3156848096169,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 38.54845753583939,
+          "power": null,
+          "voltage": 2888,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 396
+        }
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "21",
+      "descent_depth": 1060,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "89655",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": 1,
+          "type_size": "115691",
+          "state": "Ремонтный",
+          "length": 307.4378902820973,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": 19.46479161341698,
+          "power": 130.58336596795297,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "22",
+      "descent_depth": 1137,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "46536",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 3,
+          "type_size": "120877",
+          "state": "Ремонтный",
+          "length": 788.2469208732764,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 30.814199500723266,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": 872
+        }
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "23",
+      "descent_depth": 1591,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "10939",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 2,
+          "type_size": "138345",
+          "state": "Ремонтный",
+          "length": 1470.4932986515303,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 7",
+          "section": 34.599310576801614,
+          "power": 233.6804162499086,
+          "voltage": 2719,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 161,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 16,
+    "facility": {
+      "id": "24",
+      "descent_depth": 1325,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "128045",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": null,
+          "type_size": "67513",
+          "state": "Ремонтный",
+          "length": 164.00918328305912,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 9",
+          "section": 50.54311053076943,
+          "power": 57.53449192256846,
+          "voltage": 1626,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 6,
+          "pressure": 93
+        }
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "25",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "21240",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "164278",
+          "state": "Новый",
+          "length": 1004.1943721723118,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": 184,
+          "pressure": 502
+        }
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 12,
+    "facility": {
+      "id": "26",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "150864",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": null,
+          "type_size": "211723",
+          "state": "Новый",
+          "length": 1603.2121967044234,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": null,
+          "power": null,
+          "voltage": 2576,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 193,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "27",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "126322",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 2,
+          "type_size": "102079",
+          "state": "Новый",
+          "length": 1473.6329952455947,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": 47.5818991188064,
+          "power": 90.1313329270733,
+          "voltage": 1639,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 1291
+        }
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 12,
+    "facility": {
+      "id": "28",
+      "descent_depth": 1980,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "20147",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 1,
+          "type_size": "188766",
+          "state": "Ремонтный",
+          "length": 1108.4461713592539,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 47.51716083393172,
+          "power": null,
+          "voltage": 2862,
+          "amperage": null,
+          "no_load_amperage": 3,
+          "number_of_steps": null,
+          "pressure": 1167
+        }
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "29",
+      "descent_depth": 2572,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "37652",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 1,
+          "type_size": "89991",
+          "state": "Новый",
+          "length": 686.2995956435204,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": 20.91647227402455,
+          "power": null,
+          "voltage": 1547,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 674
+        }
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 8,
+    "facility": {
+      "id": "30",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "104960",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": 0,
+          "type_size": "38001",
+          "state": "Ремонтный",
+          "length": 1633.95540692752,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": null,
+          "power": 200.90365535645424,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "31",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "73878",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 2,
+          "type_size": "83269",
+          "state": "Ремонтный",
+          "length": 1260.6211162748777,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": 16.580048265562674,
+          "power": null,
+          "voltage": 2904,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 168,
+          "pressure": 1357
+        }
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "32",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "207539",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 3,
+          "type_size": "106616",
+          "state": "Новый",
+          "length": 1750.405114484686,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 2896,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "33",
+      "descent_depth": 2787,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "75206",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 3,
+          "type_size": "142818",
+          "state": "Новый",
+          "length": 1240.7882638163549,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": null,
+          "power": 245.5863508749214,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 19,
+    "facility": {
+      "id": "34",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "9022",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": null,
+          "type_size": "78089",
+          "state": "Ремонтный",
+          "length": 878.6399747274171,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 4",
+          "section": 25.817358802328435,
+          "power": null,
+          "voltage": null,
+          "amperage": 56,
+          "no_load_amperage": 2,
+          "number_of_steps": 52,
+          "pressure": 835
+        }
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "35",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "159885",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": 3,
+          "type_size": "60379",
+          "state": "Новый",
+          "length": 487.1006439886426,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": 27.696394003206514,
+          "power": 134.00091303411145,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 79,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 2,
+    "facility": {
+      "id": "36",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "3868",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 1,
+          "type_size": "157779",
+          "state": "Новый",
+          "length": 210.3383705542446,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 144.60374374307764,
+          "voltage": null,
+          "amperage": 38,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 6,
+    "facility": {
+      "id": "37",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "20891",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": 1,
+          "type_size": "155076",
+          "state": "Новый",
+          "length": 1695.3965669196236,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 189.8071481466228,
+          "voltage": 1747,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 16,
+    "facility": {
+      "id": "38",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "184505",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": null,
+          "type_size": "68733",
+          "state": "Ремонтный",
+          "length": 1695.4012909789017,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": 44.61638746970486,
+          "power": null,
+          "voltage": null,
+          "amperage": 39,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "39",
+      "descent_depth": 2227,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "126102",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": 1,
+          "type_size": "86280",
+          "state": "Новый",
+          "length": 1628.1181122580726,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 27.923998207795847,
+          "power": null,
+          "voltage": 2578,
+          "amperage": 67,
+          "no_load_amperage": null,
+          "number_of_steps": 88,
+          "pressure": 28
+        }
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "40",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "129824",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": 2,
+          "type_size": "57872",
+          "state": "Ремонтный",
+          "length": 383.7296746959703,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 155.8138691887489,
+          "voltage": 1738,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": 87,
+          "pressure": 971
+        }
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "41",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "143959",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": 3,
+          "type_size": "15710",
+          "state": "Новый",
+          "length": 1868.837545323595,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": null,
+          "power": 106.37516175179103,
+          "voltage": 1775,
+          "amperage": 39,
+          "no_load_amperage": 4,
+          "number_of_steps": 151,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "42",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "118253",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 3,
+          "type_size": "180470",
+          "state": "Новый",
+          "length": 1241.1358548456565,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 48.24753901631949,
+          "power": null,
+          "voltage": 2545,
+          "amperage": 31,
+          "no_load_amperage": null,
+          "number_of_steps": 13,
+          "pressure": 1038
+        }
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "43",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "123797",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": null,
+          "type_size": "177237",
+          "state": "Ремонтный",
+          "length": 389.66583829335434,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 4",
+          "section": null,
+          "power": null,
+          "voltage": 2883,
+          "amperage": 42,
+          "no_load_amperage": null,
+          "number_of_steps": 56,
+          "pressure": 426
+        }
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "44",
+      "descent_depth": 2191,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "60031",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 1,
+          "type_size": "15452",
+          "state": "Ремонтный",
+          "length": 51.07054428169984,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": 38,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "45",
+      "descent_depth": 2869,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "68148",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 3,
+          "type_size": "72885",
+          "state": "Ремонтный",
+          "length": 329.57055013910764,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 22.0039312022685,
+          "power": 61.23331545115972,
+          "voltage": null,
+          "amperage": 48,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "46",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "156059",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "170544",
+          "state": "Ремонтный",
+          "length": 1977.5218632577332,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 40.37876630324464,
+          "power": null,
+          "voltage": 1603,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "47",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "43448",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 1,
+          "type_size": "37043",
+          "state": "Ремонтный",
+          "length": 936.9445876171311,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": null,
+          "power": 193.7844566619865,
+          "voltage": 1881,
+          "amperage": 70,
+          "no_load_amperage": null,
+          "number_of_steps": 77,
+          "pressure": 1174
+        }
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "48",
+      "descent_depth": 1691,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "204599",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "206774",
+          "state": "Новый",
+          "length": 1215.33443349681,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 8",
+          "section": 50.79175859957262,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "49",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "169521",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": null,
+          "type_size": "42678",
+          "state": "Ремонтный",
+          "length": 1679.5846158553225,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 77.18406819104732,
+          "voltage": 2007,
+          "amperage": 43,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 1384
+        }
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "50",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "148650",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 1,
+          "type_size": "105276",
+          "state": "Ремонтный",
+          "length": 1775.0048669858315,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": 62,
+          "no_load_amperage": 3,
+          "number_of_steps": 62,
+          "pressure": 465
+        }
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 17,
+    "facility": {
+      "id": "51",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "69849",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": 2,
+          "type_size": "75073",
+          "state": "Ремонтный",
+          "length": 1626.1770629672849,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 222.23832499017738,
+          "voltage": 1981,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": 1388
+        }
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "52",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "36495",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": 3,
+          "type_size": "74197",
+          "state": "Ремонтный",
+          "length": 1433.7362360000966,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": 18.773432646975674,
+          "power": 58.22768089582801,
+          "voltage": 1657,
+          "amperage": 61,
+          "no_load_amperage": 4,
+          "number_of_steps": 70,
+          "pressure": 415
+        }
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 7,
+    "facility": {
+      "id": "53",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "2874",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": null,
+          "type_size": "49312",
+          "state": "Ремонтный",
+          "length": 1518.6381360299056,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 26.72200865607783,
+          "power": 117.47936221820777,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 560
+        }
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "54",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "209036",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 3,
+          "type_size": "188822",
+          "state": "Ремонтный",
+          "length": 1864.3906532372346,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 3,
+          "number_of_steps": 88,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "55",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "158105",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 3,
+          "type_size": "116887",
+          "state": "Ремонтный",
+          "length": 1852.4185389958186,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": null,
+          "power": 218.0591552756456,
+          "voltage": null,
+          "amperage": 39,
+          "no_load_amperage": 3,
+          "number_of_steps": 157,
+          "pressure": 1474
+        }
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 16,
+    "facility": {
+      "id": "56",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "158591",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": null,
+          "type_size": "68504",
+          "state": "Новый",
+          "length": 1784.2435750971813,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 47.113586017033825,
+          "power": 68.96653287849566,
+          "voltage": 1610,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 1141
+        }
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 17,
+    "facility": {
+      "id": "57",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "47409",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 1,
+          "type_size": "197833",
+          "state": "Новый",
+          "length": 418.84626890595933,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 9",
+          "section": 20.2598376326262,
+          "power": 107.96702540829116,
+          "voltage": null,
+          "amperage": 30,
+          "no_load_amperage": 1,
+          "number_of_steps": 18,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "58",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "36499",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": 2,
+          "type_size": "116443",
+          "state": "Новый",
+          "length": 1164.416641053527,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": null,
+          "power": 136.31236518949876,
+          "voltage": null,
+          "amperage": 59,
+          "no_load_amperage": null,
+          "number_of_steps": 158,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "59",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 3,
+    "facility": {
+      "id": "59",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "200218",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 1,
+          "type_size": "128881",
+          "state": "Ремонтный",
+          "length": 129.408972760996,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 179.85661127460128,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 196,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "60",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "182588",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 1,
+          "type_size": "12730",
+          "state": "Новый",
+          "length": 1868.9613332451095,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 2",
+          "section": 32.163798078163076,
+          "power": 88.66458766924956,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "61",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "46139",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 2,
+          "type_size": "70440",
+          "state": "Новый",
+          "length": 365.4646014863664,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 2",
+          "section": null,
+          "power": 208.82803876928247,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": null,
+          "pressure": 890
+        }
+      ]
+    }
+  },
+  {
+    "id": "62",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "62",
+      "descent_depth": 1694,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "5333",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "199762",
+          "state": "Новый",
+          "length": 800.3535270985684,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": null,
+          "power": 218.98848173813312,
+          "voltage": 1864,
+          "amperage": 41,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 577
+        }
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "63",
+      "descent_depth": 2352,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "204600",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": 3,
+          "type_size": "2025",
+          "state": "Новый",
+          "length": 1179.2061590964986,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 178.96961040706682,
+          "voltage": null,
+          "amperage": 59,
+          "no_load_amperage": 2,
+          "number_of_steps": null,
+          "pressure": 701
+        }
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 12,
+    "facility": {
+      "id": "64",
+      "descent_depth": 1656,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "129012",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 1,
+          "type_size": "136841",
+          "state": "Новый",
+          "length": 589.9324098363442,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 227.91761055448754,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 1124
+        }
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "65",
+      "descent_depth": 1687,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "90250",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 0,
+          "type_size": "179856",
+          "state": "Ремонтный",
+          "length": 848.7018710295575,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 17.718985995788206,
+          "power": null,
+          "voltage": null,
+          "amperage": 52,
+          "no_load_amperage": 3,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "66",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 17,
+    "facility": {
+      "id": "66",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "78099",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 0,
+          "type_size": "194123",
+          "state": "Ремонтный",
+          "length": 1914.0502694956442,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 9",
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 1199
+        }
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "67",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "58078",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": 3,
+          "type_size": "188072",
+          "state": "Ремонтный",
+          "length": 1003.2895775652605,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 191.93305419204282,
+          "voltage": 2788,
+          "amperage": 47,
+          "no_load_amperage": null,
+          "number_of_steps": 12,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "68",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "68",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "146110",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "169550",
+          "state": "Ремонтный",
+          "length": 1326.5116003984804,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": 29.800935749515478,
+          "power": 153.6330501482545,
+          "voltage": null,
+          "amperage": 49,
+          "no_load_amperage": 2,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "69",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "69",
+      "descent_depth": 1485,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "24163",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "186863",
+          "state": "Новый",
+          "length": 1576.0169473932096,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": null,
+          "power": null,
+          "voltage": 2973,
+          "amperage": 33,
+          "no_load_amperage": 1,
+          "number_of_steps": 117,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "70",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 16,
+    "facility": {
+      "id": "70",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "93098",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": null,
+          "type_size": "63538",
+          "state": "Новый",
+          "length": 677.7639700680943,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 1683,
+          "amperage": 38,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "71",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "71",
+      "descent_depth": 2613,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "188123",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 3,
+          "type_size": "107343",
+          "state": "Новый",
+          "length": 1777.7058576167763,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 9",
+          "section": 42.156254868837514,
+          "power": 102.7523493009035,
+          "voltage": null,
+          "amperage": 47,
+          "no_load_amperage": null,
+          "number_of_steps": 108,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "72",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 2,
+    "facility": {
+      "id": "72",
+      "descent_depth": 1656,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "65088",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 0,
+          "type_size": "52112",
+          "state": "Ремонтный",
+          "length": 671.290137731499,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 5",
+          "section": 16.78728138328948,
+          "power": null,
+          "voltage": 2938,
+          "amperage": 59,
+          "no_load_amperage": 1,
+          "number_of_steps": null,
+          "pressure": 594
+        }
+      ]
+    }
+  },
+  {
+    "id": "73",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "73",
+      "descent_depth": 1683,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "41211",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": null,
+          "type_size": "32697",
+          "state": "Ремонтный",
+          "length": 283.5785817872714,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 7",
+          "section": 43.57753364559022,
+          "power": 58.38799112935521,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": 99,
+          "pressure": 536
+        }
+      ]
+    }
+  },
+  {
+    "id": "74",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "74",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "54476",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 3,
+          "type_size": "15446",
+          "state": "Ремонтный",
+          "length": 949.5921063546369,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": 69,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "75",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 14,
+    "facility": {
+      "id": "75",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "188350",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": 2,
+          "type_size": "177832",
+          "state": "Ремонтный",
+          "length": 195.10417303869158,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": 41.188058943295324,
+          "power": null,
+          "voltage": null,
+          "amperage": 70,
+          "no_load_amperage": 3,
+          "number_of_steps": null,
+          "pressure": 1172
+        }
+      ]
+    }
+  },
+  {
+    "id": "76",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 11,
+    "facility": {
+      "id": "76",
+      "descent_depth": 1904,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "203448",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 0,
+          "type_size": "20383",
+          "state": "Новый",
+          "length": 999.1034557860655,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 23.131297083395,
+          "power": 239.98552702784733,
+          "voltage": 2029,
+          "amperage": null,
+          "no_load_amperage": 1,
+          "number_of_steps": 75,
+          "pressure": 241
+        }
+      ]
+    }
+  },
+  {
+    "id": "77",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "77",
+      "descent_depth": 1226,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "131469",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": 2,
+          "type_size": "94297",
+          "state": "Новый",
+          "length": 1127.9798778016993,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 42.04504758253086,
+          "power": 55.08972463206924,
+          "voltage": 2725,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 1251
+        }
+      ]
+    }
+  },
+  {
+    "id": "78",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 14,
+    "facility": {
+      "id": "78",
+      "descent_depth": 1405,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "39147",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "163234",
+          "state": "Ремонтный",
+          "length": 1424.7701305088651,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": 34.21643403942729,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": 135,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "79",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "79",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "55432",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": null,
+          "type_size": "197552",
+          "state": "Ремонтный",
+          "length": 299.29600083513617,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 1634,
+          "amperage": 31,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 714
+        }
+      ]
+    }
+  },
+  {
+    "id": "80",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 13,
+    "facility": {
+      "id": "80",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "102230",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 0,
+          "type_size": "122371",
+          "state": "Ремонтный",
+          "length": 673.814031565354,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 28.245889841148234,
+          "power": 209.35477532380722,
+          "voltage": 2078,
+          "amperage": 51,
+          "no_load_amperage": null,
+          "number_of_steps": 81,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "81",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 13,
+    "facility": {
+      "id": "81",
+      "descent_depth": 2058,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "83912",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": null,
+          "type_size": "85746",
+          "state": "Новый",
+          "length": 1581.86582592051,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": 46.28348771835635,
+          "power": 174.66590267958807,
+          "voltage": null,
+          "amperage": 52,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 743
+        }
+      ]
+    }
+  },
+  {
+    "id": "82",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "82",
+      "descent_depth": 1344,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "55372",
+      "nodes": [
+        {
+          "type": "Гидрозащита ПЭД",
+          "number": null,
+          "type_size": "190466",
+          "state": "Ремонтный",
+          "length": 1482.549338191199,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 4",
+          "section": 19.841479423499916,
+          "power": null,
+          "voltage": null,
+          "amperage": 50,
+          "no_load_amperage": 5,
+          "number_of_steps": 51,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "83",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 10,
+    "facility": {
+      "id": "83",
+      "descent_depth": 1659,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "48840",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "103541",
+          "state": "Ремонтный",
+          "length": 769.4027065935763,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": "Группа 10",
+          "section": 26.58336149329762,
+          "power": null,
+          "voltage": null,
+          "amperage": 62,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 1015
+        }
+      ]
+    }
+  },
+  {
+    "id": "84",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 0,
+    "facility": {
+      "id": "84",
+      "descent_depth": 1100,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "75869",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": null,
+          "type_size": "107057",
+          "state": "Ремонтный",
+          "length": 1064.2943512091863,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": 26.764404217212203,
+          "power": 111.75512648404134,
+          "voltage": 2236,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "85",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 4,
+    "facility": {
+      "id": "85",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "70897",
+      "nodes": [
+        {
+          "type": "Газосепараторы",
+          "number": null,
+          "type_size": "205232",
+          "state": "Новый",
+          "length": 336.96421540929384,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 39.344624331065965,
+          "power": 56.992066628593214,
+          "voltage": 2372,
+          "amperage": 63,
+          "no_load_amperage": 1,
+          "number_of_steps": 20,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "86",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 18,
+    "facility": {
+      "id": "86",
+      "descent_depth": 2329,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "72287",
+      "nodes": [
+        {
+          "type": "Обратный клапан",
+          "number": 1,
+          "type_size": "184376",
+          "state": "Новый",
+          "length": 923.4371211425805,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 68.46420937584523,
+          "voltage": 1645,
+          "amperage": 34,
+          "no_load_amperage": 1,
+          "number_of_steps": 78,
+          "pressure": 974
+        }
+      ]
+    }
+  },
+  {
+    "id": "87",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 17,
+    "facility": {
+      "id": "87",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "68190",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 3,
+          "type_size": "92347",
+          "state": "Новый",
+          "length": 840.113343336666,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": null,
+          "section": 19.599020396344027,
+          "power": null,
+          "voltage": null,
+          "amperage": 30,
+          "no_load_amperage": null,
+          "number_of_steps": 195,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "88",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "88",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "95208",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": null,
+          "type_size": "171012",
+          "state": "Новый",
+          "length": 1945.9526385040563,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 8",
+          "section": 47.75364134510419,
+          "power": 172.27388621224142,
+          "voltage": 1617,
+          "amperage": 63,
+          "no_load_amperage": 1,
+          "number_of_steps": 178,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "89",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 2,
+    "facility": {
+      "id": "89",
+      "descent_depth": 2134,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "83415",
+      "nodes": [
+        {
+          "type": "Основная линия",
+          "number": 3,
+          "type_size": "134333",
+          "state": "Ремонтный",
+          "length": 1552.3392138871588,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": 1643,
+          "amperage": 48,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "90",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 19,
+    "facility": {
+      "id": "90",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "54363",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": null,
+          "type_size": "52117",
+          "state": "Ремонтный",
+          "length": 805.1943618936124,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "91",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "91",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "99291",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 1,
+          "type_size": "35439",
+          "state": "Новый",
+          "length": 337.4684358061545,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 160.43787492858843,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": 24,
+          "pressure": 467
+        }
+      ]
+    }
+  },
+  {
+    "id": "92",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "92",
+      "descent_depth": 2758,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-01-26"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-02-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-02-09"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-02-19"
+        },
+        {
+          "name": "Ремонт/списание",
+          "date": "2013-02-26"
+        },
+        {
+          "name": "Необходимо подготовить",
+          "date": "2013-03-01"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-03-11"
+        }
+      ],
+      "build_name": "49071",
+      "nodes": [
+        {
+          "type": "ПЭД",
+          "number": null,
+          "type_size": "41114",
+          "state": "Ремонтный",
+          "length": 1159.1300656888332,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 160.38080325377663,
+          "voltage": 2528,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": 432
+        }
+      ]
+    }
+  },
+  {
+    "id": "93",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "93",
+      "descent_depth": 1545,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "26292",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 3,
+          "type_size": "52000",
+          "state": "Новый",
+          "length": 351.3511064297876,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 37.257886733289254,
+          "power": 225.2628861715679,
+          "voltage": 2018,
+          "amperage": null,
+          "no_load_amperage": 3,
+          "number_of_steps": 139,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "94",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 17,
+    "facility": {
+      "id": "94",
+      "descent_depth": 1325,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "190908",
+      "nodes": [
+        {
+          "type": "Удлинитель с муфтой",
+          "number": null,
+          "type_size": "1338",
+          "state": "Ремонтный",
+          "length": 1223.0318432357717,
+          "class_eef": "e2",
+          "opi": "Нет",
+          "group": "Группа 2",
+          "section": 32.41995258046512,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": 3,
+          "number_of_steps": null,
+          "pressure": 1119
+        }
+      ]
+    }
+  },
+  {
+    "id": "95",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 2,
+    "facility": {
+      "id": "95",
+      "descent_depth": 1770,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "114482",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 3,
+          "type_size": "110454",
+          "state": "Ремонтный",
+          "length": 1602.598453400006,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 43.75541614542272,
+          "power": null,
+          "voltage": null,
+          "amperage": null,
+          "no_load_amperage": null,
+          "number_of_steps": null,
+          "pressure": null
+        }
+      ]
+    }
+  },
+  {
+    "id": "96",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "Остановлена",
+    "service_company": "СЦ ЭПУ",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 15,
+    "facility": {
+      "id": "96",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "117565",
+      "nodes": [
+        {
+          "type": "Шламоуловители",
+          "number": 2,
+          "type_size": "192566",
+          "state": "Ремонтный",
+          "length": 1889.783775262872,
+          "class_eef": "e3",
+          "opi": "Нет",
+          "group": null,
+          "section": 48.81171926038211,
+          "power": null,
+          "voltage": null,
+          "amperage": 63,
+          "no_load_amperage": null,
+          "number_of_steps": 145,
+          "pressure": 1428
+        }
+      ]
+    }
+  },
+  {
+    "id": "97",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новые технологии",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 1,
+    "facility": {
+      "id": "97",
+      "descent_depth": 1236,
+      "brigade_number": null,
+      "type_of_ownership": "Не указано",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "76267",
+      "nodes": [
+        {
+          "type": "Термовставка",
+          "number": null,
+          "type_size": "123350",
+          "state": "Новый",
+          "length": 860.8567270955564,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": null,
+          "section": null,
+          "power": 165.51219940112716,
+          "voltage": null,
+          "amperage": 65,
+          "no_load_amperage": 4,
+          "number_of_steps": 16,
+          "pressure": 1049
+        }
+      ]
+    }
+  },
+  {
+    "id": "98",
+    "do": "ДО_ГПН",
+    "fond_type": "Нефтяные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 5,
+    "facility": {
+      "id": "98",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Сервис",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2012-12-28"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-01-08"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-01-16"
+        }
+      ],
+      "build_name": "195867",
+      "nodes": [
+        {
+          "type": "Сливной клапан",
+          "number": 0,
+          "type_size": "67806",
+          "state": "Новый",
+          "length": 459.8324202033526,
+          "class_eef": "e1",
+          "opi": "Нет",
+          "group": "Группа 3",
+          "section": null,
+          "power": null,
+          "voltage": 2009,
+          "amperage": null,
+          "no_load_amperage": 2,
+          "number_of_steps": 22,
+          "pressure": 256
+        }
+      ]
+    }
+  },
+  {
+    "id": "99",
+    "do": "ДО_ГПН",
+    "fond_type": "Водозаборные",
+    "fond_group": "Действующий",
+    "state": "В работе",
+    "service_company": "Новомет",
+    "field": "Месторождение_3",
+    "manufactory_number": 3,
+    "cust_number": 9,
+    "facility": {
+      "id": "99",
+      "descent_depth": null,
+      "brigade_number": null,
+      "type_of_ownership": "Аренда",
+      "lifecycle": [
+        {
+          "name": "Выпущено",
+          "date": "2013-03-19"
+        },
+        {
+          "name": "Технологический расчет и монтаж",
+          "date": "2013-03-28"
+        },
+        {
+          "name": "В работе",
+          "date": "2013-04-05"
+        },
+        {
+          "name": "Выход из строя",
+          "date": "2013-04-11"
+        },
+        {
+          "name": "Демонтаж",
+          "date": "2013-04-18"
+        }
+      ],
+      "build_name": "193950",
+      "nodes": [
+        {
+          "type": "Секции ЭЦН",
+          "number": 2,
+          "type_size": "118152",
+          "state": "Ремонтный",
+          "length": 1688.137880790522,
+          "class_eef": "e0",
+          "opi": "Нет",
+          "group": "Группа 8",
+          "section": 33.480383768579635,
+          "power": null,
+          "voltage": 1750,
+          "amperage": null,
+          "no_load_amperage": 4,
+          "number_of_steps": null,
+          "pressure": 460
+        }
+      ]
+    }
+  }
+]

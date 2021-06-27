@@ -1,0 +1,17 @@
+version: "2.2"
+
+services:
+  gpn:
+    build: "."
+    container_name: gpn
+    environment:
+      MONGO_HOST: ${MONGO_HOST}
+      MONGO_PORT: ${MONGO_PORT}
+      MONGO_DATABASE_NAME: ${MONGO_DATABASE_NAME}
+
+  mongo:
+    image: mongo:3.4
+    container_name: mongo
+    ports:
+      - 27017:27017
+    restart: always

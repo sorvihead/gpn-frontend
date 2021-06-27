@@ -1,0 +1,112 @@
+{
+    "name": "ce-webclient",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@ant-design/icons": "^4.3.0",
+      "@babel/cli": "^7.12.1",
+      "@babel/core": "^7.12.3",
+      "@babel/eslint-parser": "^7.12.1",
+      "@babel/preset-env": "^7.12.1",
+      "@babel/preset-react": "^7.12.1",
+      "@types/lodash": "^4.14.168",
+      "@types/react": "^17.0.0",
+      "@types/react-router-dom": "^5.1.6",
+      "antd": "^4.9.4",
+      "axios": "^0.19.2",
+      "babel-loader": "^8.1.0",
+      "clean-webpack-plugin": "^3.0.0",
+      "css-loader": "^5.0.0",
+      "dotenv-webpack": "^4.0.0",
+      "error-overlay-webpack-plugin": "^0.4.1",
+      "file-loader": "^6.2.0",
+      "history": "^5.0.0",
+      "html-webpack-plugin": "^4.5.0",
+      "image-webpack-loader": "^7.0.1",
+      "prettier": "^2.2.1",
+      "query-string": "^6.13.1",
+      "react": "^16.13.1",
+      "react-beautiful-dnd": "^13.1.0",
+      "react-dom": "^16.13.1",
+      "react-router": "^5.2.0",
+      "react-router-dom": "^5.2.0",
+      "sass": "^1.27.0",
+      "sass-loader": "^10.0.4",
+      "style-loader": "^2.0.0",
+      "webpack": "^4.1.3",
+      "webpack-cli": "^4.1.0",
+      "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+      "build": "webpack --config webpack/webpack.prod.js",
+      "dev": "webpack serve --config webpack/webpack.dev.js",
+      "test": "jest --env=jsdom"
+    },
+    "devDependencies": {
+      "@babel/preset-typescript": "^7.13.0",
+      "@types/enzyme": "^3.10.8",
+      "@types/jest": "^26.0.20",
+      "@types/react-beautiful-dnd": "^13.0.0",
+      "@types/react-dom": "^17.0.0",
+      "@types/sinon": "^9.0.11",
+      "@typescript-eslint/eslint-plugin": "^4.14.0",
+      "@typescript-eslint/parser": "^4.14.0",
+      "enzyme": "^3.11.0",
+      "enzyme-adapter-react-16": "^1.15.6",
+      "enzyme-to-json": "^3.6.1",
+      "eslint": "^7.18.0",
+      "eslint-config-airbnb": "^18.2.1",
+      "eslint-config-airbnb-typescript": "^12.0.0",
+      "eslint-config-prettier": "^7.2.0",
+      "eslint-plugin-import": "^2.22.1",
+      "eslint-plugin-jsx-a11y": "^6.4.1",
+      "eslint-plugin-prettier": "^3.1.4",
+      "eslint-plugin-react": "^7.22.0",
+      "eslint-plugin-react-hooks": "^4.2.0",
+      "eslint-webpack-plugin": "^2.4.3",
+      "husky": "^4.3.8",
+      "jest": "^26.6.3",
+      "lint-staged": "^10.5.3",
+      "sinon": "^9.2.4",
+      "stylelint": "^13.10.0",
+      "stylelint-config-prettier": "^8.0.2",
+      "stylelint-order": "^4.1.0",
+      "stylelint-scss": "^3.19.0",
+      "svg-url-loader": "^7.1.1",
+      "ts-loader": "^8.0.11",
+      "typescript": "^4.1.2"
+    },
+    "jest": {
+      "coverageReporters": [
+        "text",
+        "lcov"
+      ],
+      "snapshotSerializers": [
+        "enzyme-to-json/serializer"
+      ],
+      "moduleNameMapper": {
+        "\\.(css|scss|svg)$": "<rootDir>/src/styleMock.ts"
+      },
+      "modulePaths": [
+        "<rootDir>/src"
+      ],
+      "setupFiles": [
+        "<rootDir>/src/shimSetup.ts",
+        "<rootDir>/src/enzymeSetup.ts"
+      ]
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "lint-staged": {
+      "*.{js,ts,tsx}": [
+        "eslint --fix"
+      ],
+      "*.scss": [
+        "yarn stylelint --fix"
+      ]
+    }
+  }
+  
