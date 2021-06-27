@@ -8,6 +8,8 @@ services:
       MONGO_HOST: ${MONGO_HOST}
       MONGO_PORT: ${MONGO_PORT}
       MONGO_DATABASE_NAME: ${MONGO_DATABASE_NAME}
+    ports:
+    - "0.0.0.0:10500:10500"
 
   mongo:
     image: mongo:3.4
