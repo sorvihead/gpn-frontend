@@ -24,7 +24,7 @@ class FacilityResource(MethodView):
         well = self._service.get_well_by_facility_id(facility["id"])
         if well:
             data = self._process_well(well)
-            pdf = requests.post(url="http://94.142.140.195:10000/api/create_document", json=data)
+            pdf = requests.post(url="http://localhost:10000/api/create_document", json=data)
             if pdf.status_code == 200:
                 resp = Response(
                     response=pdf, status=200,

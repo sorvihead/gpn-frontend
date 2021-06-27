@@ -4,6 +4,7 @@ services:
   gpn:
     build: "."
     container_name: gpn
+    network_mode: host
     environment:
       MONGO_HOST: ${MONGO_HOST}
       MONGO_PORT: ${MONGO_PORT}
