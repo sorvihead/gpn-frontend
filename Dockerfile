@@ -6,7 +6,7 @@ RUN yarn && yarn build
 FROM python:3.8-buster
 WORKDIR /home/gpn
 COPY requirements.txt /
-RUN pip3 install --upgrade-pip
+RUN pip3 install --upgrade pip
 RUN pip3 --no-cache-dir install -r /requirements.txt
 COPY backend backend
 
